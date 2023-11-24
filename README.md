@@ -38,15 +38,15 @@ Através da utilização de um ESP-32, Sensores Ultrassonicos, Célula de Carga 
 
 ## 🛠 Equipamentos utilizados
 
-<b>ESP32;</b>
-<b>Célula de carga retirada de uma balança de cozinha;</b>
-<b>Conversor HX711;</b>
-<b>Protoboard;</b>
-<b>Sensor ultrassônico;</b>
-<b>Jumpers Macho/Macho e Macho/Fêmea;</b>
-<b>Cabo MicroUSB;</b>
-<b>Lixeira comum;</b>
-<b>Pedaço de madeira;</b>
+<b>ESP32;</b> <br>
+<b>Célula de carga retirada de uma balança de cozinha;</b> <br>
+<b>Conversor HX711;</b> <br>
+<b>Protoboard;</b> <br>
+<b>Sensor ultrassônico;</b> <br>
+<b>Jumpers Macho/Macho e Macho/Fêmea;</b> <br>
+<b>Cabo MicroUSB;</b> <br>
+<b>Lixeira comum;</b> <br>
+<b>Pedaço de madeira;</b> <br>
 
 ## 💻 Configuração para Desenvolvimento
 
