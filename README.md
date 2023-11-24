@@ -50,16 +50,12 @@ Através da utilização de um ESP-32, Sensores Ultrassonicos, Célula de Carga 
 
 ## 💻 Configuração para Desenvolvimento
 
-Para a execução do programa será necessário os seguintes softwares:
--<a href="https://www.arduino.cc/en/software">Arduino</a>
--<a href="https://www.tinkercad.com/">TinkerCAD(Caso queira simular)</a>
+Para a execução do programa será necessário os seguintes softwares: <br>
+-<a href="https://www.arduino.cc/en/software">Arduino</a> <br>
+-<a href="https://www.tinkercad.com/">TinkerCAD(Caso queira simular)</a> <br>
 -<a href="https://blynk.io/">BlynkIOT</a>
 
-```sh
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
-```
+
 
 ## 🗃 Histórico de lançamentos
 
