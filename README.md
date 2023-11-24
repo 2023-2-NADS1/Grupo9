@@ -4,19 +4,19 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Nome do Projeto
+# Lixeira Inteligente
 
-## Nome do Grupo
+## DataDump
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Matheus Emiliano</a>, <a href="https://www.linkedin.com/in/victorbarq/">João Albuquerque</a>, <a href="https://www.linkedin.com/in/victorbarq/">Isaac Santos</a>
+## Integrantes: <a href="https://github.com/msouza28">Matheus Emiliano</a>, <a href="https://github.com/belacor/">João Albuquerque</a>, <a href="https://github.com/IsaacMozilinha/">Isaac Santos</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>.   
 
 ## Descrição
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Projeto desenvolvido por <a href="http://www.nyphotographic.com/">Matheus Emiliano</a>  - <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"> João Albuquerque</a> - <a href="http://pix4free.org/">Isaac Santos</a>
+<img src="https://github.com/2023-2-NADS1/Grupo9/blob/main/imagens/WhatsApp%20Image%202023-11-24%20at%2010.45.44%20(1).jpeg" alt="LIXEIRA INTELIGENTE" border="0">
+  Projeto desenvolvido por <a href="https://github.com/msouza28">Matheus Emiliano</a>  - <a href="https://github.com/belacor/"> João Albuquerque</a> - <a href="https://github.com/IsaacMozilinha/">Isaac Santos</a>
 </p>
 
 DataDump é um projeto de Internet das Coisas em junção com a resolução 11 dos 17 Objetivos de Desenvolvimento Sustentável da ONU.
@@ -25,66 +25,35 @@ Através da utilização de um ESP-32, Sensores Ultrassonicos, Célula de Carga 
 ## 🛠 Estrutura de pastas
 
 -Raiz<br>
-|<br>
-|-->documentos<br>
-  &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
+
 |-->imagens<br>
 |-->src<br>
   &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
 |readme.md<br>
 
-A pasta raiz contem dois arquivos que devem ser alterados:
 
-<b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
-
-Há também 4 pastas que seguem da seguinte forma:
-
-<b>documentos</b>: Toda a documentação estará nesta pasta.
-
-<b>executáveis</b>: Binários e executáveis do projeto devem estar nesta pasta.
-
-<b>imagens</b>: Imagens do sistema
+<b>imagens</b>: Imagens do projeto e suas etapas
 
 <b>src</b>: Pasta que contém o código fonte.
 
-## 🛠 Instalação
+## 🛠 Equipamentos utilizados
 
-<b>Android:</b>
-
-Faça o Download do JOGO.apk no seu celular.
-Execute o APK e siga as instruções de seu telefone.
-
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
-<b>Windows:</b>
-
-Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
-
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
-<b>HTML:</b>
-
-Não há instalação!
-Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
+<b>ESP32;</b>
+<b>Célula de carga retirada de uma balança de cozinha;</b>
+<b>Conversor HX711;</b>
+<b>Protoboard;</b>
+<b>Sensor ultrassônico;</b>
+<b>Jumpers Macho/Macho e Macho/Fêmea;</b>
+<b>Cabo MicroUSB;</b>
+<b>Lixeira comum;</b>
+<b>Pedaço de madeira;</b>
 
 ## 💻 Configuração para Desenvolvimento
 
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
-
-Para abrir este projeto você necessita das seguintes ferramentas:
-
--<a href="https://godotengine.org/download">GODOT</a>
+Para a execução do programa será necessário os seguintes softwares:
+-<a href="https://www.arduino.cc/en/software">Arduino</a>
+-<a href="https://www.tinkercad.com/">TinkerCAD(Caso queira simular)</a>
+-<a href="https://blynk.io/">BlynkIOT</a>
 
 ```sh
 make install
@@ -94,10 +63,16 @@ Coloque código do prompt de comnando se for necessário
 
 ## 🗃 Histórico de lançamentos
 
-* 0.0.1 - 31/10/2023
+* 0.0.1 - 16/10/2023
+    * Planejamento do Projeto e aquisição dos materiais
+* 0.0.2 - 28/10/2023
+    * Inicio da construção do código
+* 0.0.3 - 31/10/2023
     * Trabalho em andamento
-* 0.0.2 - 17/11/2023
-    * Inclusao do codigo fonte  
+* 0.0.4 - 13/11/2023
+    * Montagem física do projeto e integração do circuito
+* 0.0.5 - 17/11/2023
+    * Inclusao do codigo fonte  e finalização
       
 
 ## 📋 Licença/License
@@ -107,8 +82,8 @@ Coloque código do prompt de comnando se for necessário
 
 Aqui estão as referências usadas no projeto.
 
-1. <https://github.com/iuricode/readme-template>
-2. <https://github.com/gabrieldejesus/readme-model>
-3. <https://creativecommons.org/share-your-work/>
-4. <https://freesound.org/>
-5. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
+1. <https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw>
+2. <https://www.makerhero.com/blog/aprenda-a-construir-uma-balanca-com-arduino-e-modulo-hx711/>
+3. <https://www.makerhero.com/blog/sensor-ultrassonico-hc-sr04-ao-arduino/>
+4. <https://www.robocore.net/tutoriais/primeiros-passos-com-sensor-ultrassonico>
+
