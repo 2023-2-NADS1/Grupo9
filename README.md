@@ -82,4 +82,5 @@ Aqui estão as referências usadas no projeto.
 2. <https://www.makerhero.com/blog/aprenda-a-construir-uma-balanca-com-arduino-e-modulo-hx711/>
 3. <https://www.makerhero.com/blog/sensor-ultrassonico-hc-sr04-ao-arduino/>
 4. <https://www.robocore.net/tutoriais/primeiros-passos-com-sensor-ultrassonico>
+5. <https://www.youtube.com/watch?v=JIl6QEIMnj0>
 
